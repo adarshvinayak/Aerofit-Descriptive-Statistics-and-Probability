@@ -45,3 +45,5 @@ advanced level models. A referal bonus could also boost sales among this categor
 Discounts for females on the advanced models.
 
 4. Entry level consumers can be given discounts to motivate them to upgrade to a newer model.
+
+<i> Refer the <a href=https://drive.google.com/drive/u/0/folders/1P58qVdXVdY2DyJ3jFFL2dC02eZq0dP4p> PDF </a> for the entire report
