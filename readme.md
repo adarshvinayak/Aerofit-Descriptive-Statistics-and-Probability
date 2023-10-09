@@ -27,6 +27,21 @@ The market research team at AeroFit wants to identify the characteristics of the
 <ol>
   <li>Preliminary Analysis : Understanding the datatypes, range and key features</li>
   <li>Data Cleaning : Removing bad data, detecting outliers, filling missing values categorizing attributes and splitting data</li>
-  <li>Data Analysis : Finding the correlation between attributes through value counts, unique attributes, charts and plots</li>
+  <li>Data Analysis : Finding the correlation between attributes through value counts, unique attributes, charts and plots.</li>
+  <li>Customer Profile Generation : Using marginal and conditional probability, customer profiles for each product is created</li>
 </ol>
 
+### Reccomendations derived from the insights
+
+1. Obtaining a fitness rating from a customer through a survey can help identify the model that they would most
+likely purchase. Higher the fitness rating the higher they might spend.
+
+2. Introducing a new model that sits between the mid level and advanced level model could attract a lot of
+consumers. The advanced model can be pitched to consumers between age 20-30, and that can be used as an
+anchor to sell this newly introduced model.
+
+3.Special offers or coupons can be provided to partnered consumers in order to upsell the mid level and
+advanced level models. A referal bonus could also boost sales among this category of consumers.
+Discounts for females on the advanced models.
+
+4. Entry level consumers can be given discounts to motivate them to upgrade to a newer model.
