@@ -10,7 +10,7 @@ The market research team at AeroFit wants to identify the characteristics of the
 <ul><li>Perform descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.</li>
 <li>For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.</li></ul>
 
-### <a https://github.com/adarshvinayak/Aerofit-Descriptive-Statistics-and-Probability/blob/main/aerofit_treadmill.csv> Dataset </a>
+### <a href=https://github.com/adarshvinayak/Aerofit-Descriptive-Statistics-and-Probability/blob/main/aerofit_treadmill.csv> Dataset </a>
 
 <ul><li>Product Purchased: 	KP281, KP481, or KP781</li>
 <li>Age: 	In years</li>
