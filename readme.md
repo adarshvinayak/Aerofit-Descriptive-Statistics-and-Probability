@@ -46,4 +46,4 @@ Discounts for females on the advanced models.
 
 4. Entry level consumers can be given discounts to motivate them to upgrade to a newer model.
 
-<i> Refer the <a href=https://github.com/adarshvinayak/Aerofit-Descriptive-Statistics-and-Probability/blob/main/Project%202%20-%20Aerofit%20-%20Jupyter%20Notebook.pdf> PDF </a> for the entire report
+<i> Jupyter Notebook :  <a href=https://github.com/adarshvinayak/Aerofit-Descriptive-Statistics-and-Probability/blob/main/Project%202%20-%20Aerofit.ipynb> Aerofit </a>
